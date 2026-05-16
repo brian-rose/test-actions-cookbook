@@ -16,7 +16,7 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ## Authors
 
-First Author, Second Author, etc. _Acknowledge primary content authors here! You can include links to their GitHub profiles or other unique pages._
+[Brian Rose](https://github.com/brian-rose)
 
 ### Contributors
 
