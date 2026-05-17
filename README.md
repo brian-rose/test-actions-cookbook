@@ -10,7 +10,7 @@ This isn't a real cookbook, it's just a place to run some infrastructure tests.
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+Testing infrastructure so people can get real work done later.
 
 ## Authors
 
