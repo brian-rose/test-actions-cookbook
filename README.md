@@ -2,8 +2,8 @@
 
 <img src="thumbnails/thumbnail.png" alt="thumbnail" width="300"/>
 
-[![nightly-build](https://github.com/brian-rose/test-actions-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/brian-rose/test-actions-cookbook/actions/workflows/nightly-build.yaml)
-[![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/brian-rose/test-actions-cookbook/main?labpath=notebooks)
+[![nightly-build](https://github.com/ProjectPythia/test-actions-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/test-actions-cookbook/actions/workflows/nightly-build.yaml)
+[![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/test-actions-cookbook/main?labpath=notebooks)
 [![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
 
 _See the [Cookbook Contributor's Guide](https://projectpythia.org/cookbook-guide) for step-by-step instructions on how to create your new Cookbook and get it hosted on the [Pythia Cookbook Gallery](https://cookbooks.projectpythia.org)!_
@@ -20,8 +20,8 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 
 ### Contributors
 
-<a href="https://github.com/brian-rose/test-actions-cookbook/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=brian-rose/test-actions-cookbook" />
+<a href="https://github.com/ProjectPythia/test-actions-cookbook/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ProjectPythia/test-actions-cookbook" />
 </a>
 
 ## Structure
